@@ -6,7 +6,7 @@
 
 А если серьезно, то в этой профессиии меня привлекают безграничные возможности для саморазвития. Нельзя стать разработчиком раз и навсегда, выучив один язык или стек технологий. Программирование – это вечная учеба, а учиться я люблю и умею.
 
-🧠  В настоящий момент изучаю JavaScript
+🧠  В настоящий момент изучаю JavaScript.
 
 ### Стек технологий
 
@@ -21,8 +21,7 @@
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/YuliyaAtrashkevich" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
-✉️  Контактный e-mail [trafimava@gmail.com](mailto:trafimava@gmail.com)
+<p align="left"> <a href="https://www.github.com/YuliyaAtrashkevich" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a><a href="mailto:trafimava@gmail.com" target="_blank" rel="noreferrer"><img src="https://imgur.com/a/KSlekhh" width="32" height="32" /></a></p>
 
 ### Badges
 
