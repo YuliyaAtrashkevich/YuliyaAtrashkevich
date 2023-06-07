@@ -1,7 +1,8 @@
 Hi 👋 My name is Yuliya Atrashkevich
 ====================================
 
-UI developer
+Я начинающий UI и Frontend-разработчик.
+В сфере IT и Digital уже более 10 лет
 ------------
 
 * 🌍  I'm based in Omsk, Russia
